@@ -1,6 +1,6 @@
 cover:
   service:
-    cover-types: "No Cover, Auto Cover, Home Cover, Holiday Cover, Pet Cover, Duvet Cover"
+    cover-types: "Washington DC, Atlanta, Reno, Panama City"
     random-delay: false
 
 endpoints:
