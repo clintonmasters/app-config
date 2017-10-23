@@ -1,7 +1,7 @@
 cover:
   client:
     coverServiceLogicalName: "COVER-SERVICE"
-    coverTypesEndpoint: "covers"
+    coverTypesEndpoint: "destinations"
     random-faults: true
     failsafe:
       cover-types: "New York"
